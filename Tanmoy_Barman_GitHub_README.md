@@ -44,7 +44,7 @@ I graduated from **IIT Bhubaneswar** with a B.Tech in Civil Engineering and an M
 
 ## Research
 
-Co-author of **“Artificial intelligence-based visual inspection system for structural health monitoring of cultural heritage”** — *Journal of Civil Structural Health Monitoring*, Springer Nature (2022).
+Author of **“Artificial intelligence-based visual inspection system for structural health monitoring of cultural heritage”** — *Journal of Civil Structural Health Monitoring*, Springer Nature (2022).
 
 ---
 
